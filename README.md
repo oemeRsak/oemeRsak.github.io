@@ -7,3 +7,4 @@
 - Better Background
 - Card Hover Animation
 - Mobile Responsive Design
+- Profile Photo
