@@ -6,5 +6,5 @@
 - Second Font
 - Better Background
 - Card Hover Animation
-- Mobile Responsive Design
 - Profile Photo
+- Optimize the Image
