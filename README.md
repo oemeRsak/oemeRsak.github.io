@@ -5,6 +5,13 @@
 - More Colors
 - Second Font
 - Better Background
+
+## In Progress
+
 - Card Hover Animation
-- Profile Photo
 - Optimize the Image
+
+## Archieved
+
+- Profile Photo
+- Mobile Responsive Design
