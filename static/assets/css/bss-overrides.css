@@ -1,6 +1,6 @@
 :root,
-[data-bs-theme="light"] {
+[data-bs-theme=light] {
   --bs-body-bg: #fbfaf5;
   --bs-body-bg-rgb: 251, 250, 245;
-  --bs-body-font-family: "Roboto Slab", serif;
+  --bs-body-font-family: 'Roboto Slab', serif;
 }
